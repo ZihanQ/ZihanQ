@@ -8,9 +8,7 @@
 
       GitHub: https://github.com/ZihanQ/
 
-      E-mail: 3109993240@qq.com / zihanqiu123@gmail.com
-      
-      QQ: 3109993240
+      E-mail: zihanqiu@bupt.edu.cn / zihanqiu123@gmail.com
 
       wechat: as228747632
 
