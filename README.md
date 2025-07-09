@@ -1,6 +1,5 @@
 - 👋 Hi, I’m DennisBaiMu (邱梓涵)
-- 👀 I’m interested in sports
-- 🌱 I’m currently learning algorithm, math
+- 👀 I’m interested in badminton
 - 💞️ I'm killed by the math~
 - 📫 How to reach me :
 
